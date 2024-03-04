@@ -1,0 +1,47 @@
+# Python
+*.pyc
+
+# Virtual Environments
+.venv/
+env/
+
+# IDEs and Code Editors
+*.sublime-workspace
+*.sublime-save
+*.pydevproject
+*.pylintrc
+*.code-workspace
+*.code-cache
+
+# Logs
+*.log
+
+# Caches
+*.pycaches
+
+# Compiled Packages
+dist/
+build/
+bdist/
+
+# Django
+db.sqlite3
+*.pyc
+__pycache__/
+
+# Flask
+instance/
+instance/*
+
+# Other Frameworks
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
+
+# Miscellaneous
+*.so
+*.egg-info
+*.swp
+
+.DS_Store
